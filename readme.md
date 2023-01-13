@@ -16,7 +16,7 @@ obs: prosjektet kjøres fra egen localhost server
 
 ## Kommentarer
 Noen spesielle valg du ønsker å beskrive/forsvare?
-> Jeg hadde i utgangspunktet en del flere api metoder, men av en aller annen grunn fikk jeg ikke til å utføre dem. Dette førte til flere dager med hodepine og googling.
+> Jeg hadde i utgangspunktet en del flere api metoder, men av en aller annen grunn fikk jeg ikke til å utføre dem. Jeg vil gjerne snakke litt om arbeidsprosessen rundt dette og hvordan opplevelsen var med prosjektet. 
 
 ---
 
